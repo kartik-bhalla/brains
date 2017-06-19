@@ -1,2 +1,0 @@
-Hello This is xyz.txt.
-This file has been created to enhance the learning process in git.
